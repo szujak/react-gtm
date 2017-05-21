@@ -1,6 +1,6 @@
 # React GTM
 
-## Work plan
+### Work plan
 This is some of most importat things I will implenet in this component.
 
 - [x] Create git repository and npm package
