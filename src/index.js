@@ -1,7 +1,7 @@
 import injectGTM from './component'
 import ReactGTMProvider from './provider'
 
-export default {
+export {
   injectGTM,
   ReactGTMProvider
 }
